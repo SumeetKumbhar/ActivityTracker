@@ -1,0 +1,12 @@
+<?xml version="1.0"?> 
+<versionUpdate> 
+    <update> 
+        <version>3.4.0.0</version> 
+        <url>/pet.exe</url> 
+        <filePath>./pet.exe</filePath>        
+        <description>
+        Update: 14-Apr-2020:
+        1. Auto Version Update Feature.
+        </description>         
+    </update>   
+</sharpUpdate>
