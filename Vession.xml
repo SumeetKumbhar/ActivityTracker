@@ -9,4 +9,13 @@
         1. Auto Version Update Feature.
         </description>         
     </update>   
+        <update> 
+        <version>3.4.0.0</version> 
+        <url>/pet.exe.config</url> 
+        <filePath>./pet.exe.config</filePath>        
+        <description>
+        Update: 14-Apr-2020:
+        1. Auto Version Update Feature.
+        </description>         
+    </update> 
 </sharpUpdate>
