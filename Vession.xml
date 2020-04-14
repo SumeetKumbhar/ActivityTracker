@@ -9,7 +9,7 @@
         1. Auto Version Update Feature.
         </description>         
     </update>   
-        <update> 
+    <update> 
         <version>3.4.0.0</version> 
         <url>/pet.exe.config</url> 
         <filePath>./pet.exe.config</filePath>        
@@ -18,4 +18,4 @@
         1. Auto Version Update Feature.
         </description>         
     </update> 
-</sharpUpdate>
+</versionUpdate>
