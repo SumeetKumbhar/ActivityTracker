@@ -2,20 +2,11 @@
 <versionUpdate> 
     <update> 
         <version>1.1.0.0</version> 
-        <url>/pet.exe</url> 
-        <filePath>./pet.exe</filePath>        
+        <url>https://github.com/SumeetKumbhar/ActivityTracker/raw/master/CheckVErsionUpdate.exe</url> 
+        <filePath>./CheckVErsionUpdate.exe</filePath>        
         <description>
         Update: 14-Apr-2020:
         1. Auto Version Update Feature.
         </description>         
-    </update>   
-    <update> 
-        <version>3.4.0.0</version> 
-        <url>/pet.exe.config</url> 
-        <filePath>./pet.exe.config</filePath>        
-        <description>
-        Update: 14-Apr-2020:
-        1. Auto Version Update Feature.
-        </description>         
-    </update> 
+    </update>    
 </versionUpdate>
